@@ -1,6 +1,6 @@
 # 3D Карусель участников команды
 
-![Пример работы карусели](https://disk.yandex.ru/i/3si8auqadusbXg)
+![Пример работы карусели](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtjaXcyZXlhc3pnM245MXBnMXhqYzhrY3NudXF0NjV0b3JwOWc0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a75uEw8Jtya5l3Xrkn/giphy.gif)
 
 ## 📌 О проекте
 
